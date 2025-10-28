@@ -158,13 +158,6 @@ Management | Transparent ticket tracking and metrics
 
 ---
 
-## 🏷️ Badge for GitHub
-
-Add this flair to your README header:
-```
-![n8n Automation](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n)
-```
-
 ---
 
 ## 💜 Author
